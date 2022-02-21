@@ -1,0 +1,32 @@
+body{
+    margin: 30px;
+   
+}
+
+#navbar{
+    background-color: #111010;
+    color: white;
+    text-align: center ;
+    height: 40px;
+    
+}
+
+. table table-bordered{
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th, td {
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {background-color: #e6b3cc;}
+
+#footer{
+    background-color:#111010;
+    color: white;
+    text-decoration: wavy;
+    height: 40px;
+}
+
